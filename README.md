@@ -1,1 +1,1 @@
-python 개인 공부용으로 만든 git repository 입니다.
+python 공부용으로 만든 git repository 입니다.
