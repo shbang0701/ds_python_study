@@ -13,8 +13,7 @@
 
 1. 파이썬 설치  
 ![](Installation_python_004.png)  
-Add python.exe to PATH 를 선택하면 현재 설치하는 버전의 파이썬이 환경변수에 설정된다.  
-미체크 시 에는 필요 시 수동으로 설정해야한다.<br><br>
+Add python.exe to PATH 를 선택하면 현재 설치하는 버전의 파이썬이 환경변수에 설정된다.<br><br>
 ![](Installation_python_005.png)  
 ![](Installation_python_006.png)  
 ![](Installation_python_007.png)  
