@@ -22,7 +22,7 @@
 1. [Stack OverFlow](https://stackoverflow.com/questions/tagged/python)
 
 ## AI
-1. [deekseek](https://www.deepseek.com/)
+1. [deepseek](https://www.deepseek.com/)
 
 ## Game  
 1. [reeborg](https://reeborg.ca/)
