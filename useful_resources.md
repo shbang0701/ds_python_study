@@ -4,6 +4,7 @@
   - [python.org](#pythonorg)
   - [웹북](#웹북)
   - [Q\&A](#qa)
+  - [AI](#ai)
   - [Game](#game)
 
 ## python.org  
@@ -19,6 +20,9 @@
 
 ## Q&A  
 1. [Stack OverFlow](https://stackoverflow.com/questions/tagged/python)
+
+## AI
+1. [deekseek](https://www.deepseek.com/)
 
 ## Game  
 1. [reeborg](https://reeborg.ca/)
